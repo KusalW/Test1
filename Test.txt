@@ -2,5 +2,6 @@ Nmae
 Age
 Sex
 Address
+D1
 
 PHN
