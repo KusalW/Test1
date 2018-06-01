@@ -1,0 +1,7 @@
+Nmae 
+Age
+Sex
+Address
+Bug 1
+PHN
+Bug 2
