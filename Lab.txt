@@ -1,2 +1,4 @@
 Name
 Type
+Investigation
+Date
